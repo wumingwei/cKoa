@@ -1,0 +1,16 @@
+{
+  "name": "mini-koa",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "wumingwei <wu_mingwei@yeah.net> (http://github.com/wumingwei)",
+  "license": "MIT",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
