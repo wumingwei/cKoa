@@ -41,7 +41,6 @@ class CKoa {
 
   use(callback) {
     this.middlewares.push(callback);
-    // this.callback = callback;
   }
 
   compose(middlewares) {
